@@ -1,0 +1,6 @@
+{
+	"appId": "com.weather.tracker",
+	"appName": "Furniture AR Viewer",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
