@@ -1,0 +1,24 @@
+/* Register.css */
+.register-container {
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .register-header {
+    text-align: center;
+  }
+  
+  .register-button {
+    margin-top: 20px;
+  }
+  
+  .login-redirect {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 0.95rem;
+    color: #3880ff;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  

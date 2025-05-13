@@ -1,0 +1,29 @@
+/* WeatherCard.css */
+.weather-card {
+  margin: 20px auto;
+  max-width: 400px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.product-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.weather-card ion-card-header {
+  background-color: #f8f9fa;
+}
+
+.weather-card ion-card-title {
+  font-size: 1.4rem;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.weather-card ion-card-content {
+  font-size: 1rem;
+  color: #555;
+}

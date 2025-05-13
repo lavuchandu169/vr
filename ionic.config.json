@@ -1,0 +1,8 @@
+{
+  "name": "Furniture-AR-Viewer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "03f8a79c"
+}
