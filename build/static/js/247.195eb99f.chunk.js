@@ -1,0 +1,3 @@
+/*! For license information please see 247.195eb99f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkFurniture_AR_Viewer=self.webpackChunkFurniture_AR_Viewer||[]).push([[247],{247:(e,t,r)=>{r.r(t),r.d(t,{startStatusTap:()=>o});var n=r(146),s=r(721),i=r(384);const o=()=>{const e=window;e.addEventListener("statusTap",(()=>{(0,n.gv)((()=>{const t=e.innerWidth,r=e.innerHeight,o=document.elementFromPoint(t/2,r/2);if(!o)return;const a=(0,s.a)(o);a&&new Promise((e=>(0,i.c)(a,e))).then((()=>{(0,n.bN)((async()=>{a.style.setProperty("--overflow","hidden"),await(0,s.s)(a,300),a.style.removeProperty("--overflow")}))}))}))}))}}}]);
+//# sourceMappingURL=247.195eb99f.chunk.js.map
